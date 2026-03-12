@@ -21,16 +21,7 @@ Exercices **2.1 → 2.5**
 - Utilisation de `reduce` pour calculer la somme des exercices
 - Séparation des composants en modules
 
-### Structure des composants
 
-```
-App
- └── Course
-      ├── Header
-      ├── Content
-      │     └── Part
-      └── Total
-```
 
 ### Concepts React utilisés
 - Props
